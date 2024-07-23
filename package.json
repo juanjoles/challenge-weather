@@ -15,7 +15,7 @@
     }
 },
   "keywords": [],
-  "author": "",
+  "author": "Juan Jose Lescano <juanjo_lescano@hotmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",

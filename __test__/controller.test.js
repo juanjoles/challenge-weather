@@ -35,7 +35,7 @@ describe("GET /", () => {
 
 describe("GET /:city?", () => {
   afterEach(() => {
-    jest.clearAllMocks(); // Limpiar todos los mocks después de cada prueba
+    jest.clearAllMocks();
   });
 
   it("response weather for a specific city.", async () => {
