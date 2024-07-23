@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+  weather:
+    image: juanjoles/weather
+    ports:
+      - 3000:3000
